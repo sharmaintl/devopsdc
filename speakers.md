@@ -19,3 +19,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Julka Grodel](https://github.com/julka) - Is your code ready for PHP7?
 * [Billy Poggi] (https://www.linkedin.com/in/billy-poggi-93855427/) - DevOps for Leaders, The People, Processes and Technology
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
+* Sanjeev Sharma (IBM CTO for DevOps Adoption | Author 'DevOps Adoption Playbook' and 'DevOps For Dummies' | https://sdarchitect.blog): 'There is no such thing as a DevOps Job. It is what you do'. 
